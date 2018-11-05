@@ -15,7 +15,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: red;
 }
 
 .App-link {
@@ -29,4 +29,13 @@
   to {
     transform: rotate(360deg);
   }
+} 
+/*.DottedBox {
+  margin: 40px;
+  border: 5px dotted pink;
 }
+
+.DottedBox_content {
+  font-size: 15px;
+  text-align: center;
+} */
